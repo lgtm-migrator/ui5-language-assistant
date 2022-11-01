@@ -56,7 +56,7 @@
     "@ui5-language-assistant/semantic-model-types": "3.3.1",
     "@ui5-language-assistant/test-utils": "3.3.1",
     "js-yaml": "4.1.0",
-    "tmp-promise": "3.0.2",
+    "tmp-promise": "3.0.3",
     "vscode-languageserver-types": "3.16.0"
   },
   "scripts": {
